@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/hwclass/react-screen-reader#readme",
   "devDependencies": {
-    "@kadira/storybook": "^2.35.3"
+    "@kadira/storybook": "^2.35.3",
+    "glamor": "^2.20.22"
   },
   "dependencies": {
     "react": "^15.4.2",
