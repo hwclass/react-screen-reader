@@ -1,6 +1,6 @@
 # react-screen-reader
 
-A react component that parses text and reads via Speech API
+A React component that parses text and reads via Speech API
 
 ## Usage
 
@@ -25,7 +25,7 @@ import ScreenReader from 'react-screen-reader';
 
 const App = () => {
   render() {
-    return (<ScreenReader/>)
+    return <ScreenReader/>
   }
 }
 
